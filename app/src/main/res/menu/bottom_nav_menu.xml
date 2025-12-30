@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 待办页面（已实现） -->
+    <item
+        android:id="@+id/todoFragment"
+        android:icon="@drawable/ic_todo"
+        android:title="待办" />
+
+    <!-- 日历页面（未实现，先占位） -->
+    <item
+        android:id="@+id/calendarFragment"
+        android:icon="@drawable/ic_calendar"
+        android:title="日历" />
+
+    <!-- 笔记页面（未实现，先占位） -->
+    <item
+        android:id="@+id/noteFragment"
+        android:icon="@drawable/ic_note"
+        android:title="笔记" />
+</menu>
