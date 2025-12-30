@@ -21,8 +21,6 @@
 
 1. 克隆项目 
 
-git clone https://github.com/VIPyinzhiwei/SimpleToDo.git
-
 2. 使用 Android Studio 打开项目
 
 3. 同步 Gradle 依赖
